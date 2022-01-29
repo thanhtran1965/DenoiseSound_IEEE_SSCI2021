@@ -26,3 +26,16 @@ git clone https://github.com/nhattruongpham/soundSepsound.git
 
 - Run ```SFTF_Extractor.ipynb``` to extract STFT features (if any).
 
+
+## Citation
+If you use this code/data or part of it, please cite the following paper:
+```
+@inproceedings{tran2021separate,
+  title={Separate Sound into STFT Frames to Eliminate Sound Noise Frames in Sound Classification},
+  author={Tran, Thanh and Huy, Kien Bui and Pham, Nhat Truong and Carrat{\`u}, Marco and Liguori, Consolatina and Lundgren, Jan},
+  booktitle={2021 IEEE Symposium Series on Computational Intelligence (SSCI)},
+  pages={1--7},
+  year={2021},
+  organization={IEEE}
+}
+```
