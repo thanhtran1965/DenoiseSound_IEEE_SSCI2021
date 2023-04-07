@@ -8,9 +8,11 @@
 ## Dataset:
 - Audio: The raw audio selected from the FSDnoisy18K dataset for evaluating the proposed method. [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/ET3WCMLLCahIpQpXgKqVxTEBOkDlv2CB4aBjuojr3_t6Dg?e=YOGE5G)
 
-- One_STFT: This dataset consists of 20 classes where each audio per class is extracted to only 1 Short-Time Fourier Transform (STFT). [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/EVR4dJMDa3VErHXksQbFjxkBdEFIcmBmDCp-K0RUHPsllw?e=QAXjOm)
+- STFT images: [Download](https://www.kaggle.com/datasets/phiyenthao/stft-paper)
 
-- Separate_STFT_addNoise_Class: This dataset consists of 21 classes that are 20 classes selected from the original data and additional noisy class. Each audio per class is separated into multiple STFT frames and manually labelled as clean label (the original label of class) and noisy label (that is merged to construct the noisy class). [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/Ef7nlkv5GjlPmeT9Yo3DaFYBUwZD78EPFC9EAE3S5U6u2w?e=724cFs)
+- One_STFT: This dataset consists of 20 classes where each audio per class is extracted to only 1 Short-Time Fourier Transform (STFT). 
+
+- Separate_STFT_addNoise_Class: This dataset consists of 21 classes that are 20 classes selected from the original data and additional noisy class. Each audio per class is separated into multiple STFT frames and manually labelled as clean label (the original label of class) and noisy label (that is merged to construct the noisy class). 
 
 ### Note: All above datasets need to download and extract to the [data](https://github.com/nhattruongpham/soundSepsound/tree/main/data) folder.
 
