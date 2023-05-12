@@ -6,7 +6,7 @@
 - MATLAB 2020b.
 
 ## Dataset:
-- Audio: The raw audio selected from the FSDnoisy18K dataset for evaluating the proposed method. [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/ET3WCMLLCahIpQpXgKqVxTEBOkDlv2CB4aBjuojr3_t6Dg?e=YOGE5G)
+- Audio: The raw audio selected from the FSDnoisy18K dataset for evaluating the proposed method. [Download]()
 
 - STFT images: [Download](https://www.kaggle.com/datasets/phiyenthao/stft-paper)
 
@@ -14,7 +14,7 @@
 
 - Separate_STFT_addNoise_Class: This dataset consists of 21 classes that are 20 classes selected from the original data and additional noisy class. Each audio per class is separated into multiple STFT frames and manually labelled as clean label (the original label of class) and noisy label (that is merged to construct the noisy class). 
 
-### Note: All above datasets need to download and extract to the [data](https://github.com/nhattruongpham/soundSepsound/tree/main/data) folder.
+### Note: All above datasets need to download and extract to the data folder.
 
 ## Usage:
 - First, clone the repository locally:
